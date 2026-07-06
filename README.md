@@ -76,38 +76,17 @@
 - Stripe Payments
 - Cloudinary Images
 - Admin Dashboard
-
-### 🤖 AI Interview Platform
-
-- AI Mock Interviews
-- Resume Upload
-- Performance Dashboard
-- Authentication
-
-### 🏠 Smart Hostel Management System
-
-- Student Portal
-- Room Allocation
-- Complaint Management
-- Leave Management
-
-### 🚧 Automatic Toll Gate System
-
-- Arduino
-- IR Sensors
-- Servo Motor
-- RFID Based Entry
-- ---
+---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaushal1955&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal1955&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaushal1955&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal1955&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushal1955&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kaushal1955&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -115,7 +94,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kaushal1955&theme=tokyonight&no-frame=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kaushal1955&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
@@ -179,7 +158,7 @@
 > **"Code. Learn. Build. Repeat. 🚀"**
 
 </p>
----
+
 ---
 
 # 🐍 Contribution Snake
@@ -208,7 +187,8 @@
 
 # 📌 Developer Journey
 
-```text
+```
+text
 🌱 Started Programming
       │
       ▼
