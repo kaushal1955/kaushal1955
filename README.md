@@ -180,10 +180,9 @@
 
 </p>
 ---
+---
 
 # 🐍 Contribution Snake
-
-> **Create `.github/workflows/snake.yml` and use the code I'll give in Part 4.**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -241,9 +240,10 @@ Preparing for Software Engineering Roles 🚀
 # 💜 Thanks for Visiting
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=120&section=footer"/>
 </p>
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories! ⭐
+⭐ If you like my work, consider giving a ⭐ to my repositories!
 </p>
+
